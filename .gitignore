@@ -1,0 +1,26 @@
+# Lerna
+lerna-debug.log
+
+# Dot env
+.env
+
+# NPM / Yarn
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Packages
+dist
+
+# Jest junit file
+coverage
+junit.xml
+
+# Jest snapshot testing
+__snapshots__/
+
+# Vscode workspaces
+*.code-workspace
+
+# macOS
+.DS_Store
